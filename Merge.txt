@@ -1,5 +1,0 @@
-Hi,
-I am merging tis file to the main branch.
-I have added Srividya
-This is the merge file used to merge data.
-exporting to the main branch
